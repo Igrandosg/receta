@@ -2,5 +2,9 @@
 2 limas
 2 cucharaditas de sal
 1/2 cebolla
+<<<<<<< HEAD
 1 cucharaditas de cilantro
 
+=======
+1 cucharaditas de cilandro
+>>>>>>> experimento
